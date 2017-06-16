@@ -1,5 +1,7 @@
 # NativeScript Speech Recognition App
 
+(Warning: not fully tested)
+
 Built with NativeScript + Angular
 
 Allows users to speak to app and have their speech converted into text.
